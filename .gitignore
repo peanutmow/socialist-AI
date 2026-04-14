@@ -1,0 +1,47 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.Python
+pip-wheel-metadata/
+python-wheels/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+.env/
+
+# Local model weights and adapters
+models/
+adapters/
+*.bin
+*.pt
+*.safetensors
+*.ckpt
+
+# Generated outputs and caches
+benchmark_results.md
+*.log
+*.cache
+*.tmp
+*.bak
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local secrets and settings
+local_settings.py
+secret_*.json
