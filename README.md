@@ -2,6 +2,8 @@
 
 **socialist-AI** is a local multi-agent inference framework for socialist analysis. It runs a shared local LLM through several role-based agents — a theoretician, a historian, a strategist, and a democratic socialist critic — then synthesizes their discussion into a concise consensus answer.
 
+**Website:** [alicemow.org](https://alicemow.org) · [About](https://alicemow.org/about) · [All projects](https://alicemow.org/projects)
+
 ## Why this project
 - Demonstrates multi-agent reasoning with a single local model.
 - Emphasizes socialist theory, historical materialism, and democratic pluralism.
